@@ -1,2 +1,3 @@
 cook beef
-put beef in buns
+toast the bun
+put beef in bun
